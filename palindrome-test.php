@@ -9,7 +9,7 @@ $input6 = "No lemon, no melon";
 
 //ubah sesuai inputan yang ingin diinginkan
 $input6 = strtolower(str_replace(' ', '', $input6));
-
+//ubah sesuai inputan yang ingin diinginkan
 $array = str_split($input6);
 
 
