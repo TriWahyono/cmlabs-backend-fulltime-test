@@ -7,6 +7,7 @@ $input4 = "Civic";
 $input5 = "My gym";
 $input6 = "No lemon, no melon";
 
+//ubah sesuai inputan yang ingin diinginkan
 $input6 = strtolower(str_replace(' ', '', $input6));
 
 $array = str_split($input6);
